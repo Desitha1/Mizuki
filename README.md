@@ -51,7 +51,7 @@
 
 ### පහළ තිබෙන "Deploy in heroku" නම් බටනය click කර අපගේ වෙබ් පිටුවට පිවිසීමෙන් ඔබට පහසුවෙන් Mizuki deploy කරගත හැක.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SHANCER1/Mizuki)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Desitha1/Mizuki)
      </div>
 
 
