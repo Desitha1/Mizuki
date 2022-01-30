@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 ##Queen Mizuki
-RUN git clone https://github.com/SHANCER1/Mizuki /root/QueenMizuki
+RUN git clone https://github.com/Desitha1/Mizuki /root/QueenMizuki
 WORKDIR /root/QueenMizuki/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
